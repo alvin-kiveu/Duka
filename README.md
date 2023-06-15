@@ -1,3 +1,6 @@
 # Duka GIT DEMO
 
-This a demo repository for the Duka GIT training.
+This a demo repository for the Duka GIT training. 
+
+
+Umeskia Branches?
